@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://u4canlg3hcc1"]
+
+[ext_resource type="PackedScene" uid="uid://crrs6eaht76m5" path="res://Scenes/assault_rifle_west.tscn" id="1_shun5"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="AssaultRifleWest" parent="." instance=ExtResource("1_shun5")]
